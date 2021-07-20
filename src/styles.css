@@ -1,0 +1,19 @@
+
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  
+  
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-image: url('https://cdn.stocksnap.io/img-thumbs/960w/sunset-river_CQAYEMIDOJ.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+   
+}
+
+
